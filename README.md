@@ -1,5 +1,5 @@
-# Repo-Test
-Description Repository Test
-* List Item 1
-* List Item 2
-* List Item 3
+# Repo-Testing
+Description Testing
+* Testing to see how the repositories on GitHub works.
+* Testing how the bulletpoints in the .md file works.
+* Random line for fun.
